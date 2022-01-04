@@ -15,7 +15,8 @@ There are 4 members in our team.
 ## Advisor Section
 | Name      | Contact info                                          |
 | --------------- | :----------------------------------------------------- |
-|Bhoom Suktitipat|bhoom.suk@mahidol.ac.th|
+|Asst.Prof. Dr. Bhoom Suktitipat|bhoom.suk@mahidol.ac.th|
+|Asst.Prof. Dr. Prapat Suriyaphol|prapatsuriyaphol@gmail.com|
 
 ![alt text](/resource/4.png)
 ## Program Coordinator Section
